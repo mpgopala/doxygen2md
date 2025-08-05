@@ -22,11 +22,6 @@ A comprehensive Python tool for converting Doxygen XML documentation into enhanc
 - 👻 **virtual** - Virtual functions
 
 ### **Complete Function Signatures**
-```markdown
-### commitFileChanges
-
-`util::Promise< FileCommitResult > commitFileChanges(const std::string &localPath, const std::string &localETag, bool moveIn) noexcept`
-```
 
 ### **Table of Contents**
 Each class documentation includes a comprehensive TOC:
