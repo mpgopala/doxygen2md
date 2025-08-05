@@ -30,15 +30,6 @@ A comprehensive Python tool for converting Doxygen XML documentation into enhanc
 
 ### **Table of Contents**
 Each class documentation includes a comprehensive TOC:
-```markdown
-## Table of Contents
-
-### Member Functions
-- [AdobeAssetWithError](#adobeassetwitherror)
-- [getAdobeAsset](#getadobeasset)
-- [commitFileChanges](#commitfilechanges)
-- [createComposite](#createcomposite)
-```
 
 ## 📋 Requirements
 
