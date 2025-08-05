@@ -1,4 +1,4 @@
-# XML to Markdown Documentation Generator
+# Doxygen to Markdown Documentation Generator
 
 A comprehensive Python tool for converting Doxygen XML documentation into enhanced markdown format with visual indicators, Table of Contents, and complete function signatures.
 
@@ -207,4 +207,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Generated with ❤️ using the XML to Markdown Documentation Generator** 
+**Generated with ❤️ using the Doxygen to Markdown Documentation Generator** 
